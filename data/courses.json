@@ -45,6 +45,15 @@
     "duration": "1 month",
     "img": "https://cdn-media-1.freecodecamp.org/images/1*uIepZ6YWTubeVxD5n5kkyg.png",
     "price" : "$32"
+  },
+
+  {
+    "id": "6358544baf0b4d89d8dbcd9a",
+    "name": "html",
+    "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. As the title suggests, this article will give you a basic understanding of HTML and its functions.",
+    "duration": "1 month",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+    "price" : "$15"
   }
 
 
