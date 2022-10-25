@@ -6,6 +6,13 @@
     "duration": "2 month",
     "img": "https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png",
     "price" : "$32"
+  },  {
+    "id": "6358544bca2bbdd5a4df3569",
+    "name": "React Js",
+    "details": "What is React is used for?The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript",
+    "duration": "1 month",
+    "img": "https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/what-and-why-reactjs/Images/React%20Properties.jpg",
+    "price" : "$20"
   }
 
 
