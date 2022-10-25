@@ -13,6 +13,15 @@
     "duration": "1 month",
     "img": "https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/what-and-why-reactjs/Images/React%20Properties.jpg",
     "price" : "$20"
+  },
+  {
+    "id": "6358544bb5d28c9427f34691",
+    "name":"NODE JS",
+    "details": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.",
+    "duration": "1 month",
+    "img": "https://www.freecodecamp.org/news/content/images/2021/10/node4.png",
+    "price" : "$32"
+  }
   }
 
 
