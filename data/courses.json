@@ -54,6 +54,14 @@
     "duration": "1 month",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
     "price" : "$15"
+  },
+  {
+    "id": "6358544bca6bdd5a4df3569",
+    "name": "css",
+    "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.",
+    "duration": "1 month",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+    "price" : "$10"
   }
 
 
