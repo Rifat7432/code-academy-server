@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6358544baf0d4d89d8dbcd9a",
+    "name": "Java Script",
+    "details": "JavaScript is better for website development Hands down, JavaScript is undeniably better than Python for website development for one simple reason: JS runs in the browser while Python is a backend server-side language. While Python can be used in part to create a website, it can't be used alone.What is JavaScript ? JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.",
+    "duration": "2 month",
+    "img": "https://miro.medium.com/max/1024/1*YQgaKfVzK-YpxyT3NYqJAg.png",
+    "price" : "$32"
+  }
+
+
+]
